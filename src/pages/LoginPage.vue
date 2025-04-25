@@ -4,7 +4,7 @@
         <CardHeader>
           <CardTitle class="text-2xl font-bold text-center">Login</CardTitle>
           <CardDescription class="text-center">
-            Choose one way to login
+            Choose a way to login
           </CardDescription>
         </CardHeader>
         <CardContent class="grid gap-4">
