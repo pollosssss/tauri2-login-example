@@ -15,6 +15,7 @@ A comprehensive example demonstrating OAuth2 authentication flow in Tauri V2 app
 - 🔒 Secure token handling
 
 ## Screenshot
+![image](https://github.com/pollosssss/tauri2-login-example/blob/main/screenshot.png)
 
 ## Getting Started
 
