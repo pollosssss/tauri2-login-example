@@ -19,15 +19,6 @@ A comprehensive example demonstrating OAuth2 authentication flow in Tauri V2 app
 
 ## Getting Started
 
-### Prerequisites
-
-- Node.js (v16 or later)
-- Rust (latest stable)
-- VS Code with recommended extensions:
-  - Volar (Vue)
-  - rust-analyzer
-  - Tauri
-
 ### Setup OAuth Credentials
 
 1. **Google OAuth Setup**
